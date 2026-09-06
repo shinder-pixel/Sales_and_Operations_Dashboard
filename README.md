@@ -24,4 +24,13 @@ Dashboard Interaction <a href="https://github.com/shinder-pixel/Sales_and_Operat
 -Create Pivot table according to question asked
 -Merge all tables into single dashboard and apply slicers.
 
+## Project Insight
+
+Sales show upward trend with maximum sales in December. Technology is the leading category with 38% contribution.Consumer segment generates more sales.
+Sales are increasing consistently from 2011 to 2014.
+
+## Conclusion
+
+Prioritize Consumer customers, Technology products, and high- performing year end months, while investing why Corporate and Home Office contribute considerably less.
+
   
