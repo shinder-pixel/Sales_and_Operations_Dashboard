@@ -13,7 +13,9 @@ Super Store wants to create a report to understand growth of the business over t
 - Which shipping modes are most commonly used?
 - How long does it take to ship orders?
 - How is sales performance changing over time?
--Dashboard Interaction <a href="https://github.com/shinder-pixel/Sales_and_Operations_Dashboard/blob/main/SuperStore_Report_Dashboard.jpg">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/shinder-pixel/Sales_and_Operations_Dashboard/blob/main/SuperStore_Report_Dashboard.jpg">
+
+View Dashboard</a>
 
 
 ##Process
