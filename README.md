@@ -14,7 +14,10 @@ Super Store wants to create a report to understand growth of the business over t
 - How long does it take to ship orders?
 - How is sales performance changing over time?
 -Dashboard Interaction <a href="https://github.com/shinder-pixel/Sales_and_Operations_Dashboard/blob/main/SuperStore_Report_Dashboard.jpg">View Dashboard</a>
+
+
 ##Process
+
 -Verify data for any missing values and anomalies and sort out the same
 -Make sure data is consistent and clean with respect to data type, data format and values used
 -Create Pivot table according to question asked
