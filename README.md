@@ -31,6 +31,6 @@ Sales are increasing consistently from 2011 to 2014.
 
 ## Conclusion
 
-Prioritize Consumer customers, Technology products, and high- performing year end months, while investing why Corporate and Home Office contribute considerably less.
+Prioritize Consumer customers, Technology products, and High- performing year end months, while investigating why Corporate and Home Office contribute considerably less.
 
   
